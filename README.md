@@ -11,7 +11,7 @@ The dataset simulates a simplified IceCube-like detector: a 4×4 grid of sensors
 - Detection time  
 - (x, y) position of the sensor
 
-Files are provided in `.parquet` format and include training, validation, and test splits. Data is not included in this repository due to size but can be downloaded [via this link](#) and placed in a `data/` directory.
+Files are provided in `.parquet` format and include training, validation, and test splits. Data is included in this repository.
 
 ---
 
